@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Maede 👋
+# Hi, I'm Hamed 👋
 
 **ML/DL Engineer · Data Scientist · Python Developer**
 
