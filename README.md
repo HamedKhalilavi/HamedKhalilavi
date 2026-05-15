@@ -173,10 +173,8 @@ I'm a machine learning and data science practitioner passionate about building i
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamedkhalilavi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkhalilavi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamedkhalilavi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamedkhalilavi&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamedkhalilavi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=d29922&currStreakLabel=58a6ff)
 
 </div>
